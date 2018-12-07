@@ -1,2 +1,2 @@
-# comodoca-messaging-lib
+# my-messaging-lib
 consumer message from queue, publish message to exchange
